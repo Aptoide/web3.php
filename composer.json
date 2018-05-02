@@ -1,5 +1,5 @@
 {
-    "name": "Aptoide/web3.php",
+    "name": "aptoide/web3.php",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
